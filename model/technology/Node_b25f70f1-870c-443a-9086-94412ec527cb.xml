@@ -1,0 +1,26 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HeatPump Local Power Distribution"
+    id="b25f70f1-870c-443a-9086-94412ec527cb">
+  <properties
+      key="Input"
+      value="2*3*230V"/>
+  <properties
+      key="Output1"
+      value="3*230V"/>
+  <properties
+      key="Output1"
+      value="Normal"/>
+  <properties
+      key="Output2"
+      value="3*230V"/>
+  <properties
+      key="Output2"
+      value="Geo"/>
+  <properties
+      key="Output3"
+      value="1*230V"/>
+  <properties
+      key="Output3"
+      value="Simple"/>
+</archimate:Node>

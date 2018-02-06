@@ -1,0 +1,13 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="230V signal"
+    id="57559b05-6cb6-4e7d-9d4c-91b4417dba4e"
+    documentation="Signal from Geo">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_b25f70f1-870c-443a-9086-94412ec527cb.xml#b25f70f1-870c-443a-9086-94412ec527cb"/>
+  <target
+      xsi:type="archimate:TechnologyInterface"
+      href="TechnologyInterface_de825970-e9e4-47bb-b7cb-74e2af30318e.xml#de825970-e9e4-47bb-b7cb-74e2af30318e"/>
+</archimate:TriggeringRelationship>
