@@ -5,15 +5,62 @@
     id="5fe92248-8879-4914-99b8-3025cee35791">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="2a368fb9-4516-46d2-b4f6-1a00d5f58fb9"
-      fillColor="#ff8000">
+      id="07ec70e4-4c3f-40e5-921f-c8276d42dcaa">
     <bounds
-        x="536"
-        y="359"
+        x="469"
+        y="312"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Device"
-        href="Device_ca92ebad-11e5-4866-b8bc-a0c0f750fe3d.xml#ca92ebad-11e5-4866-b8bc-a0c0f750fe3d"/>
+        href="Device_f45e7224-87f7-467e-8b01-72bd53816e68.xml#f45e7224-87f7-467e-8b01-72bd53816e68"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="68f4ed45-04f9-427b-bec4-1a1b99c134bf">
+    <bounds
+        x="59"
+        y="62"
+        width="218"
+        height="155"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_bbfcaea0-d934-482a-8a77-5ae11ff4dc41.xml#bbfcaea0-d934-482a-8a77-5ae11ff4dc41"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="a7c6d084-45d3-4e6a-89f6-606f137ee5ae">
+    <bounds
+        x="408"
+        y="62"
+        width="241"
+        height="155"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_b2faa87a-45a0-44ac-ba3a-9a1a2560ed81.xml#b2faa87a-45a0-44ac-ba3a-9a1a2560ed81"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="4e567c9c-e88e-4bb5-8492-3c07904e5f0c">
+    <bounds
+        x="720"
+        y="62"
+        width="217"
+        height="155"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_cd618b2c-746b-4601-ac4f-5c5652e5bde0.xml#cd618b2c-746b-4601-ac4f-5c5652e5bde0"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="e9fe1df6-2aee-4e3c-ac51-18887b251024">
+    <bounds
+        x="720"
+        y="300"
+        width="217"
+        height="157"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_75145e1d-4bfa-4378-907c-5f36a4a0b6d0.xml#75145e1d-4bfa-4378-907c-5f36a4a0b6d0"/>
   </children>
 </archimate:ArchimateDiagramModel>
